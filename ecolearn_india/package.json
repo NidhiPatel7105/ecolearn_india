@@ -22,7 +22,8 @@
     "scripts": [
       "start",
       "build",
-      "serve"
+      "serve",
+      "run"
     ],
     "warning": "🚨 CRITICAL: DO NOT REMOVE OR MODIFY ABOVE DEPENDENCIES - Required for app functionality"
   },
