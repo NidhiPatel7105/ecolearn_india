@@ -61,7 +61,11 @@
   "start": "vite preview --port $PORT",
   "build": "vite build",
   "serve": "vite preview"
+  "dev": "vite",
+  "build": "vite build",
+  "start": "vite preview --port $PORT"
 }
+
 
   "eslintConfig": {
     "extends": [
